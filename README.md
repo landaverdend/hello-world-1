@@ -1,2 +1,2 @@
 # hello-world
-For CS3240.
+This repository is for CS3240. If you're reading this remind me to delete it.
